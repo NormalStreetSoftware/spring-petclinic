@@ -418,6 +418,13 @@
             </plugin>
         </plugins>
     </reporting>
+    
+    <repositories>
+    <repository>
+      <id>jodatime-version</id>
+      <url>http://18.236.106.247:8081/repository/maven-releases/</url>
+    </repository>
+  </repositories>
 
     <distributionManagement>
         <snapshotRepository>
