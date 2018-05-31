@@ -418,13 +418,6 @@
             </plugin>
         </plugins>
     </reporting>
-    
-    <repositories>
-    <repository>
-      <id>maven-public</id>
-      <url>http://18.236.106.247:8081/repository/maven-public/</url>
-    </repository>
-  </repositories>
 
     <distributionManagement>
         <snapshotRepository>
