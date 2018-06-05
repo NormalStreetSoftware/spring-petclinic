@@ -10,7 +10,7 @@
     <packaging>war</packaging>
 
     <properties>
-        <!-- Testing -->
+        <!-- Testing the addition of Jira -->
 
         <!-- Generic properties -->
         <java.version>1.7</java.version>
